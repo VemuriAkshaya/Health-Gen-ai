@@ -20,7 +20,7 @@ The project aims to provide a simple and user-friendly platform where healthcare
 *  Clean and modern healthcare interface
 *  Responsive design for different devices
 
-## 🎯 Objective
+##  Objective
 
 The main objective of HealthGen AI is to demonstrate how Generative AI can assist in organizing healthcare information and producing structured reports from provided patient data.
 
