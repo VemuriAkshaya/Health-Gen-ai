@@ -43,5 +43,5 @@ HealthGen AI can be useful as a concept for:
 * AI-based healthcare research and learning
 
 
-Always consult a qualified healthcare professional for medical decisions.
+
 
